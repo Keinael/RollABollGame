@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3035234158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a7684676bc33f609476ce09724d9f9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc316c7a11020260bacec4997f7e1b62
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/PickUp.mat
+Dependencies: []

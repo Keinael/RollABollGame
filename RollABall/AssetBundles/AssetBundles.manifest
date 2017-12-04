@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2384113569
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: texturemaps
+      Dependencies: {}
+    Info_1:
+      Name: pickupmaterial
+      Dependencies: {}
